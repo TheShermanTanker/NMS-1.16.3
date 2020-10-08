@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: CraftBukkit
+Implementation-Vendor: 2020-10-07T14:09:01Z
+Implementation-Version: git-Tuinity-88a2c88
+Main-Class: org.bukkit.craftbukkit.Main
+Specification-Title: Bukkit
+Specification-Vendor: Bukkit Team
+Specification-Version: unknown
+
+Name: com/bukkit/
+Sealed: true
+
+Name: net/bukkit/
+Sealed: true
+
+Name: org/bukkit/
+Sealed: true
+
